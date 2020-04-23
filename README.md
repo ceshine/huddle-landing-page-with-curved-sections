@@ -2,6 +2,12 @@
 
 ![Header/intro section for the Huddle landing page with curved sections](./design/desktop-preview.jpg)
 
+## Notes by Ceshine
+
+This is heavily based on [zuolizhu](https://github.com/zuolizhu/frontendmentor_challenges/tree/master/huddle-landing-page-with-curved-sections-master)'s solution. I converted its CSS file to SCSS, and made some simplification in class design.
+
+You'll need to compile `index.scss` into `index.css` for the page to work. For more details, please refer to [Sass: Install Sass](https://sass-lang.com/install).
+
 ## Welcome! 👋
 
 Thanks for checking out this front-end coding challenge.
@@ -12,7 +18,7 @@ Thanks for checking out this front-end coding challenge.
 
 ## Where to find everything
 
-Your task is to build out the project to the designs inside the `/design` folder. You will find both a mobile and a desktop version of the design to work to. 
+Your task is to build out the project to the designs inside the `/design` folder. You will find both a mobile and a desktop version of the design to work to.
 
 The designs are in JPG static format. This will mean that you'll need to use your best judgment for styles such as `font-size`, `padding` and `margin`. This should help train your eye to perceive differences in spacings and sizes.
 
