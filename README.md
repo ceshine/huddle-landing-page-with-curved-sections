@@ -2,7 +2,7 @@
 
 ![Header/intro section for the Huddle landing page with curved sections](./design/desktop-preview.jpg)
 
-## Notes by Ceshine
+## Notes from Ceshine
 
 This is heavily based on [zuolizhu](https://github.com/zuolizhu/frontendmentor_challenges/tree/master/huddle-landing-page-with-curved-sections-master)'s solution. I converted its CSS file to SCSS, and made some simplification in class design.
 
